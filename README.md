@@ -18,10 +18,10 @@
 <br />
 <br />
 
-<a href="https://linkedin.com/in/shashankboosi" target="_blank">
+<a href="https://www.linkedin.com/in/shashank-reddy-boosi-24721ab7/" target="_blank">
   <img align="right" alt="Shashank Boosi | Linkedin" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/shashank-reddy-boosi-24721ab7/" target="_blank">
+<a href="https://twitter.com/shashankboosi" target="_blank">
   <img align="right" alt="Shashank Boosi | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />
 </a>
 
